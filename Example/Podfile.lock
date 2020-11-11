@@ -1,0 +1,16 @@
+PODS:
+  - BugReporting (0.1.0)
+
+DEPENDENCIES:
+  - BugReporting (from `../`)
+
+EXTERNAL SOURCES:
+  BugReporting:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BugReporting: d8e4f51de428b5817d7c5c6bac142c96e2303341
+
+PODFILE CHECKSUM: 63bb94727a6740d339203fd14c42d0b335fd5d66
+
+COCOAPODS: 1.8.4

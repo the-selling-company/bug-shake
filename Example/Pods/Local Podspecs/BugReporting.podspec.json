@@ -1,0 +1,22 @@
+{
+  "name": "BugReporting",
+  "version": "0.1.0",
+  "summary": "A short description of BugReporting.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DaniArnaout/BugReporting",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DaniArnaout": "dani.arnaout@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/DaniArnaout/BugReporting.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BugReporting/Classes/**/*"
+}
